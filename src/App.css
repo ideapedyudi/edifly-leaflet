@@ -1,0 +1,43 @@
+.leaflet-container {
+  width: 100vw;
+  height: 100vh;
+  background-color: #D6E4E5 !important;
+}
+
+.legend {
+  position: absolute;
+  z-index: 999;
+  left: 20px;
+  bottom: 20px;
+  padding: 10px 5px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px 0 rgba(255, 255, 255, 0.3);
+  font: 13px/1 sans-serif;
+  background: rgba(0, 0, 0, 0.8);
+}
+
+.legend>div {
+  position: relative;
+  display: flex;
+  align-items: center;
+  height: 20px;
+  padding: 0 5px;
+  color: #fff;
+}
+
+.legend>div::before {
+  content: "";
+  left: 0;
+  top: 0;
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+  background-color: var(--color);
+}
+
+.leaflet-container .leaflet-control-attribution {
+  background: #fff;
+  background: rgba(255, 255, 255, 0.8);
+  margin: 0;
+  visibility: hidden;
+}
