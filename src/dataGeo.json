@@ -726,9 +726,20 @@
         "properties": {
             "ID": 2,
             "kode": 52,
-            "Propinsi": "NUSATENGGARA BARAT",
+            "Propinsi": "NUSA TENGGARA BARAT",
+            "COUNT": 40,
             "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
-        }
+        },
+        "crd": [
+            [
+                -7.4795600074453565,
+                115.73258732399376
+            ],
+            [
+                -9.573647178645633,
+                119.22898601188172
+            ]
+        ]
     },
     {
         "type": "Feature",
@@ -1066,8 +1077,19 @@
             "ID": 3,
             "kode": 75,
             "Propinsi": "GORONTALO",
+            "COUNT": 60,
             "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
-        }
+        },
+        "crd": [
+            [
+                0.20955436642609893,
+                121.07396728385243
+            ],
+            [
+                1.124094512568739,
+                123.60631574436516
+            ]
+        ]
     },
     {
         "type": "Feature",
@@ -2301,8 +2323,19 @@
             "ID": 4,
             "kode": 74,
             "Propinsi": "SULAWESI TENGGARA",
+            "COUNT": 40,
             "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
-        }
+        },
+        "crd": [
+            [
+                -6.116359397963539,
+                121.40806623872287
+            ],
+            [
+                -2.8873605904557706,
+                122.84684210881078
+            ]
+        ]
     },
     {
         "type": "Feature",
@@ -2434,8 +2467,19 @@
             "ID": 5,
             "kode": 34,
             "Propinsi": "DAERAH ISTIMEWA YOGYAKARTA",
+            "COUNT": 40,
             "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
-        }
+        },
+        "crd": [
+            [
+                -8.234645762001328,
+                110.85546566836398
+            ],
+            [
+                -7.494607650519144,
+                110.13448793421583
+            ]
+        ]
     },
     {
         "type": "Feature",
@@ -3043,7 +3087,17 @@
             "Propinsi": "JAWA TENGAH",
             "COUNT": 60,
             "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
-        }
+        },
+        "crd": [
+            [
+                -5.9285240281717915,
+                108.24194154185196
+            ],
+            [
+                -8.16356635887433,
+                111.94982703175671
+            ]
+        ]
     },
     {
         "type": "Feature",
@@ -3391,7 +3445,17 @@
             "Propinsi": "BANTEN",
             "COUNT": 50,
             "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
-        }
+        },
+        "crd": [
+            [
+                -5.899872120108079,
+                105.29727945540567
+            ],
+            [
+                -7.0065367981232916,
+                106.8738174340763
+            ]
+        ]
     },
     {
         "type": "Feature",
@@ -4365,8 +4429,19 @@
             "ID": 8,
             "kode": 35,
             "Propinsi": "JAWA TIMUR",
+            "COUNT": 90,
             "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
-        }
+        },
+        "crd": [
+            [
+                -4.97937356735626,
+                110.0779860105883
+            ],
+            [
+                -9.251824353423167,
+                115.53819071720365
+            ]
+        ]
     },
     {
         "type": "Feature",
@@ -6116,8 +6191,19 @@
             "ID": 9,
             "kode": 82,
             "Propinsi": "MALUKU UTARA",
+            "COUNT": 40,
             "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
-        }
+        },
+        "crd": [
+            [
+                4.298416928016109,
+                123.17717159550097
+            ],
+            [
+                -2.442410604472637,
+                131.98820615225245
+            ]
+        ]
     },
     {
         "type": "Feature",
@@ -9059,8 +9145,19 @@
             "ID": 10,
             "kode": 81,
             "Propinsi": "MALUKU",
+            "COUNT": 40,
             "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
-        }
+        },
+        "crd": [
+            [
+                -0.40368985618757997,
+                123.33660854645066
+            ],
+            [
+                -9.012535813821195,
+                135.87200808417316
+            ]
+        ]
     },
     {
         "type": "Feature",
@@ -10278,8 +10375,19 @@
             "ID": 13,
             "kode": 73,
             "Propinsi": "SULAWESI SELATAN",
+            "COUNT": 90,
             "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
-        }
+        },
+        "crd": [
+            [
+                -0.7202006045111031,
+                117.9204627801369
+            ],
+            [
+                -6.921584217819454,
+                126.32500322392106
+            ]
+        ]
     },
     {
         "type": "Feature",
@@ -10357,7 +10465,44 @@
             "Propinsi": "DKI JAKARTA",
             "COUNT": 90,
             "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
-        }
+        },
+        "crd": [
+            [
+                -6.3707299199999996,
+                106.686210630000005
+            ],
+            [
+                -6.0890359900000002,
+                106.9728240999999969
+            ]
+        ],
+        "kanwil": [
+            {
+                "name": "jakarta kanwil",
+                "crd": [
+                    -6.21639126368886,
+                    106.83478522907403
+                ]
+            }
+        ],
+        "kanim": [
+            {
+                "name": "jakarta kanim",
+                "crd": [
+                    -6.182930486536732,
+                    106.74419013568017
+                ]
+            }
+        ],
+        "tpi": [
+            {
+                "name": "jakarta tpi",
+                "crd": [
+                    -6.11879142151753,
+                    106.63985151121359
+                ]
+            }
+        ]
     },
     {
         "type": "Feature",
@@ -10815,7 +10960,17 @@
             "Propinsi": "JAWA BARAT",
             "COUNT": 30,
             "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
-        }
+        },
+        "crd": [
+            [
+                -5.756453599538392,
+                106.10261132205103
+            ],
+            [
+                -8.027670883095341,
+                109.22547487910415
+            ]
+        ]
     },
     {
         "type": "Feature",
@@ -16521,8 +16676,19 @@
             "ID": 16,
             "kode": 91,
             "Propinsi": "PAPUA",
+            "COUNT": 40,
             "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
-        }
+        },
+        "crd": [
+            [
+                -0.3827799806713513,
+                131.25844851009145
+            ],
+            [
+                -9.45818373008311,
+                144.24428747029128
+            ]
+        ]
     },
     {
         "type": "Feature",
@@ -18456,8 +18622,19 @@
             "ID": 17,
             "kode": 53,
             "Propinsi": "NUSA TENGGARA TIMUR",
+            "COUNT": 70,
             "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
-        }
+        },
+        "crd": [
+            [
+                -5.287149074939008,
+                116.8506410763086
+            ],
+            [
+                -11.62654855541649,
+                128.67677512532697
+            ]
+        ]
     },
     {
         "type": "Feature",
@@ -18691,8 +18868,46 @@
             "ID": 18,
             "kode": 51,
             "Propinsi": "BALI",
+            "COUNT": 80,
             "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
-        }
+        },
+        "crd": [
+            [
+                -7.88178106331314,
+                114.10220934090569
+            ],
+            [
+                -8.656923810999821,
+                115.90554602767958
+            ]
+        ],
+        "kanwil": [
+            {
+                "name": "bali kanwil",
+                "crd": [
+                    -8.670093832903934,
+                    115.23379774691621
+                ]
+            }
+        ],
+        "kanim": [
+            {
+                "name": "bali kanim",
+                "crd": [
+                    -8.743268282380445,
+                    115.17092411129988
+                ]
+            }
+        ],
+        "tpi": [
+            {
+                "name": "bali tpi",
+                "crd": [
+                    -8.780571564374615,
+                    115.18915292756036
+                ]
+            }
+        ]
     },
     {
         "type": "Feature",
@@ -20220,7 +20435,17 @@
             "Propinsi": "RIAU",
             "COUNT": 30,
             "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
-        }
+        },
+        "crd": [
+            [
+                3.1927825852668446,
+                98.75438028801587
+            ],
+            [
+                -0.9803205167834794,
+                105.45603998828818
+            ]
+        ]
     },
     {
         "type": "Feature",
@@ -24278,8 +24503,19 @@
             "ID": 76,
             "kode": 21,
             "Propinsi": "KEPULAUAN RIAU",
+            "COUNT": 40,
             "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
-        }
+        },
+        "crd": [
+            [
+                1.3589620226087407,
+                102.84224180344135
+            ],
+            [
+                -0.7684578756664814,
+                106.1426506157359
+            ]
+        ]
     },
     {
         "type": "Feature",
@@ -24661,8 +24897,19 @@
             "ID": 77,
             "kode": 76,
             "Propinsi": "SULAWESI BARAT",
+            "COUNT": 40,
             "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
-        }
+        },
+        "crd": [
+            [
+                0.05284222771009537,
+                116.81243282955137
+            ],
+            [
+                -3.707385302312958,
+                121.63543054827194
+            ]
+        ]
     },
     {
         "type": "Feature",
@@ -26606,8 +26853,19 @@
             "ID": 20,
             "kode": 72,
             "Propinsi": "SULAWESI TENGAH",
+            "COUNT": 40,
             "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
-        }
+        },
+        "crd": [
+            [
+                1.1469353775891897,
+                118.08973666959437
+            ],
+            [
+                -3.278687314530102,
+                125.25831528341024
+            ]
+        ]
     },
     {
         "type": "Feature",
@@ -27245,8 +27503,19 @@
             "ID": 22,
             "kode": 71,
             "Propinsi": "SULAWESI UTARA",
+            "COUNT": 70,
             "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
-        }
+        },
+        "crd": [
+            [
+                6.51736300787478,
+                119.91391028987202
+            ],
+            [
+                0.09347506843306354,
+                131.64730792903734
+            ]
+        ]
     },
     {
         "type": "Feature",
@@ -34828,8 +35097,19 @@
             "ID": 23,
             "kode": 92,
             "Propinsi": "PAPUA BARAT",
+            "COUNT": 60,
             "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
-        }
+        },
+        "crd": [
+            [
+                2.5288048225801387,
+                126.49737148536111
+            ],
+            [
+                -5.962997739932298,
+                137.43975355334678
+            ]
+        ]
     },
     {
         "type": "Feature",
@@ -35971,7 +36251,17 @@
             "Propinsi": "SUMATERA UTARA",
             "COUNT": 50,
             "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
-        }
+        },
+        "crd": [
+            [
+                4.041643770095389,
+                95.42866292635382
+            ],
+            [
+                1.4465794815371833,
+                102.74555695976589
+            ]
+        ]
     },
     {
         "type": "Feature",
@@ -36573,8 +36863,19 @@
             "ID": 25,
             "kode": 19,
             "Propinsi": "BANGKA BELITUNG",
+            "COUNT": 40,
             "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
-        }
+        },
+        "crd": [
+            [
+                -1.3357397240089128,
+                104.9977753441553
+            ],
+            [
+                -3.569267665367672,
+                108.84298992627878
+            ]
+        ]
     },
     {
         "type": "Feature",
@@ -37486,7 +37787,17 @@
             "Propinsi": "SUMATERA BARAT",
             "COUNT": 30,
             "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
-        }
+        },
+        "crd": [
+            [
+                1.2286968467829107,
+                98.14590364398526
+            ],
+            [
+                -2.0556798386586452,
+                104.07302726414414
+            ]
+        ]
     },
     {
         "type": "Feature",
@@ -38384,7 +38695,17 @@
             "Propinsi": "SUMATERA SELATAN",
             "COUNT": 70,
             "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
-        }
+        },
+        "crd": [
+            [
+                -1.040778777682574,
+                100.81544472598884
+            ],
+            [
+                -4.984123052887893,
+                107.47865228043992
+            ]
+        ]
     },
     {
         "type": "Feature",
@@ -38972,7 +39293,17 @@
             "Propinsi": "JAMBI",
             "COUNT": 90,
             "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
-        }
+        },
+        "crd": [
+            [
+                -0.6269810511833895,
+                101.04604394817065
+            ],
+            [
+                -2.762763103019085,
+                104.33644899773059
+            ]
+        ]
     },
     {
         "type": "Feature",
@@ -39538,7 +39869,17 @@
             "Propinsi": "LAMPUNG",
             "COUNT": 30,
             "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
-        }
+        },
+        "crd": [
+            [
+                -3.8478337011511763,
+                103.24946048418347
+            ],
+            [
+                -5.864692413082104,
+                106.71564677178334
+            ]
+        ]
     },
     {
         "type": "Feature",
@@ -40050,7 +40391,17 @@
             "Propinsi": "BENGKULU",
             "COUNT": 30,
             "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
-        }
+        },
+        "crd": [
+            [
+                -1.7825896564090702,
+                99.56342197962765
+            ],
+            [
+                -5.498781802283956,
+                106.02887564128379
+            ]
+        ]
     },
     {
         "type": "Feature",
@@ -40850,7 +41201,17 @@
             "Propinsi": "DI. ACEH",
             "COUNT": 70,
             "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
-        }
+        },
+        "crd": [
+            [
+                6.141029078615828,
+                93.97862440768397
+            ],
+            [
+                3.0806567183794034,
+                100.25181734023396
+            ]
+        ]
     },
     {
         "type": "Feature",
@@ -46412,8 +46773,19 @@
             "ID": 12,
             "kode": 61,
             "Propinsi": "KALIMANTAN BARAT",
+            "COUNT": 40,
             "SUMBER": "Batas Provinsi Desember 2019 Dukcapil (Skala tidak diketahui)"
-        }
+        },
+        "crd": [
+            [
+                3.5841461815147526,
+                106.99984540802065
+            ],
+            [
+                -3.815475859202038,
+                115.49227647082475
+            ]
+        ]
     },
     {
         "type": "Feature",
@@ -49490,8 +49862,19 @@
             "ID": 27,
             "kode": 62,
             "Propinsi": "KALIMANTAN TENGAH",
+            "COUNT": 40,
             "SUMBER": "Batas Provinsi Desember 2019 Dukcapil (Skala tidak diketahui)"
-        }
+        },
+        "crd": [
+            [
+                0.8679807651537995,
+                110.26308113932589
+            ],
+            [
+                -3.4201141995984408,
+                116.7669869468033
+            ]
+        ]
     },
     {
         "type": "Feature",
@@ -51753,8 +52136,19 @@
             "ID": 11,
             "kode": 63,
             "Propinsi": "KALIMANTAN SELATAN",
+            "COUNT": 60,
             "SUMBER": "Batas Provinsi Desember 2019 Dukcapil (Skala tidak diketahui)"
-        }
+        },
+        "crd": [
+            [
+                -0.9542968151963364,
+                113.34640287481204
+            ],
+            [
+                -4.81584782392929,
+                117.96615353704898
+            ]
+        ]
     },
     {
         "type": "Feature",
@@ -58632,8 +59026,19 @@
             "ID": 21,
             "kode": 64,
             "Propinsi": "KALIMANTAN TIMUR",
+            "COUNT": 90,
             "SUMBER": "Batas Provinsi Desember 2019 Dukcapil (Skala tidak diketahui)"
-        }
+        },
+        "crd": [
+            [
+                2.3665635067416737,
+                113.67838639527729
+            ],
+            [
+                -1.9060931653400586,
+                118.91886455434269
+            ]
+        ]
     },
     {
         "type": "Feature",
@@ -64311,7 +64716,18 @@
             "ID": 33,
             "kode": 65,
             "Propinsi": "KALIMANTAN UTARA",
+            "COUNT": 40,
             "SUMBER": "Batas Provinsi Desember 2019 Dukcapil (Skala tidak diketahui)"
-        }
+        },
+        "crd": [
+            [
+                3.588568756505419,
+                113.7897436495874
+            ],
+            [
+                1.0310472177932701,
+                118.81049526110289
+            ]
+        ]
     }
 ]

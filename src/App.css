@@ -4,6 +4,10 @@
   background-color: #D6E4E5 !important;
 }
 
+.custom-tooltip {
+  background-color: black !important;
+}
+
 .legend {
   position: absolute;
   z-index: 999;

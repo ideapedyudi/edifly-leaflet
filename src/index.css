@@ -5,11 +5,29 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: black !important;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.leaflet-tooltip {
+  background-color: rgba(0, 0, 0, 0.8) !important;
+  color: white !important;
+  border: none !important;
+}
+
+.leaflet-control-zoom-out {
+  background-color: rgba(0, 0, 0, 0.8) !important;
+  color: white !important;
+  border: none !important;
+}
+
+.leaflet-control-zoom-in {
+  background-color: rgba(0, 0, 0, 0.8) !important;
+  color: white !important;
 }
 
 .panel {
